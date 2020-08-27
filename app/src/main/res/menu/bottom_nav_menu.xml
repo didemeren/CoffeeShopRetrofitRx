@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_customer"
+        android:icon="@drawable/ic_baseline_customer_24"
+        android:title="@string/title_customer" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_baseline_shop_24"
+        android:title="@string/title_shop" />
+
+</menu>

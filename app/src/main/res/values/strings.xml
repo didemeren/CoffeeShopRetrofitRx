@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoffeeShopRRX</string>
+    <string name="title_customer">Customer</string>
+    <string name="title_shop">Shop</string>
+    <string name="text_give_order_button">Give Order</string>
+    <string name="offer_format">Do You Want Some %s ?</string>
+</resources>
